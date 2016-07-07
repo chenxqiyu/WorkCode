@@ -227,7 +227,7 @@ namespace Dx3D
             device.VertexFormat = CustomVertex.PositionColored.Format;
 
             //绘制图形，使用的方法为三角形列表，个数为个
-            device.DrawPrimitives(PrimitiveType.TriangleList, 0, 6);
+            //      device.DrawPrimitives(PrimitiveType.TriangleList, 0, 6);
 
 
             //结束场景
