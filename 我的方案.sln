@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dx2D", "Dx2D\Dx2D.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dx3D", "Dx3D\Dx3D.csproj", "{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameView", "GameView\GameView\GameView.csproj", "{276E4721-956B-4116-90D5-97C3E8A8F45B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameView", "GameView\GameView.csproj", "{276E4721-956B-4116-90D5-97C3E8A8F45B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LianZhao", "LianZhao\LianZhao\LianZhao.csproj", "{09F9EE89-8FDB-4402-8766-82E6851D6A02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LianZhao", "LianZhao\LianZhao.csproj", "{09F9EE89-8FDB-4402-8766-82E6851D6A02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
