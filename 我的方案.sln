@@ -7,20 +7,36 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dx2D", "Dx2D\Dx2D.csproj", "{684945BD-3770-44ED-B65D-799F288234FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dx3D", "Dx3D\Dx3D.csproj", "{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117B453C-A41B-45D2-9DF1-2B8B8466BCE2}.Release|x86.ActiveCfg = Release|Any CPU
 		{684945BD-3770-44ED-B65D-799F288234FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{684945BD-3770-44ED-B65D-799F288234FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684945BD-3770-44ED-B65D-799F288234FE}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{684945BD-3770-44ED-B65D-799F288234FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684945BD-3770-44ED-B65D-799F288234FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684945BD-3770-44ED-B65D-799F288234FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Debug|x86.ActiveCfg = Debug|x86
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Debug|x86.Build.0 = Debug|x86
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Release|x86.ActiveCfg = Release|x86
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
