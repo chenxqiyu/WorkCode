@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameView", "GameView\GameVi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LianZhao", "LianZhao\LianZhao.csproj", "{09F9EE89-8FDB-4402-8766-82E6851D6A02}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestTools", "TestTools", "{CD1195C9-959B-4AC4-8E35-04889D135205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{684945BD-3770-44ED-B65D-799F288234FE} = {CD1195C9-959B-4AC4-8E35-04889D135205}
+		{31C48F12-B9ED-4D7F-9CFA-3AC6939EA022} = {CD1195C9-959B-4AC4-8E35-04889D135205}
+		{276E4721-956B-4116-90D5-97C3E8A8F45B} = {CD1195C9-959B-4AC4-8E35-04889D135205}
+		{09F9EE89-8FDB-4402-8766-82E6851D6A02} = {CD1195C9-959B-4AC4-8E35-04889D135205}
 	EndGlobalSection
 EndGlobal
